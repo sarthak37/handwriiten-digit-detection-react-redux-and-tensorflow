@@ -1,0 +1,40 @@
+{
+  "name": "solo-mvp-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "@tensorflow/tfjs": "^0.13.4",
+    "chart.js": "^2.7.3",
+    "eslint": "5.6.0",
+    "express": "^4.16.4",
+    "keras": "^1.0.1",
+    "morgan": "^1.9.1",
+    "numpy": "^0.0.1",
+    "path": "^0.12.7",
+    "prettier": "^1.15.2",
+    "react": "^16.6.1",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "^16.6.1",
+    "react-redux": "^5.1.1",
+    "react-scripts": "2.1.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "typeface-roboto": "^0.0.54"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
